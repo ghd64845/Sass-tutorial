@@ -34,7 +34,7 @@ const Button = styled.button`
     background: rgba(255, 255, 255, 0.9);
   }
 
-  /* 다음 코드는 inverted 값이 true일 때 특정 스탕리을 부여해 줍니다.*/
+  /* 다음 코드는 inverted 값이 true일 때 특정 스을 부여해 줍니다.*/
   ${props =>
     props.inverted &&
     css`
